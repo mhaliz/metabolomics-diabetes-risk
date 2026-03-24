@@ -14,3 +14,5 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+!data/processed/train_idx.npy
+!data/processed/test_idx.npy
