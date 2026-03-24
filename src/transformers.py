@@ -1,3 +1,5 @@
+
+import numpy as np
 from sklearn.base import BaseEstimator, TransformerMixin
 # Custom transformer to handle correlation filtering
 class CorrelationFilter(BaseEstimator, TransformerMixin):
