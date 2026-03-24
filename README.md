@@ -4,7 +4,7 @@ In a public health study, participants were enrolled from communities for physic
 This project aims to find relevant predictors to assess diabetes risk, and utilizes these features to build a machine learning model that will be deployed in future blood screens.
 
 ## Project Structure
-    blood-screen/
+    metabolomics-diabetes-risk/
     ├── data/
     │   ├── raw/                  # original data, not committed
     │   └── processed/            # train/test indices, gene column list
@@ -50,7 +50,6 @@ Run in order:
 
 ## Data
 This project contains data from over 8,000 participants, measuring 10,000 distinct biomarkers. It also contains demographic variables: age, sex, and BMI.
-Patient data is not committed to this repository.
 
 ## Authors
 Michali Izhaky
