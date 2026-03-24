@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("data/raw/PUB2023_scraped.csv.gz")
+df = pd.read_csv("../data/raw/PUB2023_scraped.csv.gz")
 
 GENE_COLS = [c for c in df.columns if 'mtb' in col]
 SEX_COL = ['sex']
