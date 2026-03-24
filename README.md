@@ -36,7 +36,7 @@ pip install -e .
 
 ### 4. Data access
 Raw data is not committed to this repository.
-Place the raw file at data/raw/data.parquet before running any notebooks.
+Place the raw file at data/raw/data.csv.gz before running any notebooks.
 
 ## Running the Notebooks
 Run in order:
