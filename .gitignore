@@ -8,3 +8,6 @@ models/*
 !models/.gitkeep
 *.pkl
 *.parquet
+__pycache__/
+*.pyc
+*.pyo
