@@ -1,0 +1,7 @@
+SEX_COL = ['sex']
+BMI_AGE_COLS = ['BMI','age']
+TARGET_COLS = 'has_diabetes'
+
+VAR_THRESHOLD = 0.1
+CORR_THRESHOLD = 0.9
+STABILITY_PCT = 80
