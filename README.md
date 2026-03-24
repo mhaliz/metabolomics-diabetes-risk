@@ -9,7 +9,7 @@ This project aims to find relevant predictors to assess diabetes risk, and utili
     │   ├── raw/                  # original data, not committed
     │   └── processed/            # train/test indices, gene column list
     ├── notebooks/
-    │   ├── 01_eda.ipynb
+    │   ├── 01_EDA.ipynb
     │   ├── 02_feature_selection.ipynb
     │   └── 03_model_selection.ipynb
     ├── src/
